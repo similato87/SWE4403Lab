@@ -3,11 +3,11 @@ package L02_E02;
 public class StrengthTrainingFactory implements GoalFactory{
     @Override
     public WorkoutPlan createWorkoutPlan() {
-        return null;
+        return new StrenthTrainingWorkout();
     }
 
     @Override
     public MealPlan createMealPlan() {
-        return null;
+        return new StrengthTrainingMealPlan();
     }
 }

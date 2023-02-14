@@ -3,11 +3,11 @@ package L02_E02;
 public class GettingActiveFactory implements GoalFactory{
     @Override
     public WorkoutPlan createWorkoutPlan() {
-        return null;
+        return new GettingActiveWorkout();
     }
 
     @Override
     public MealPlan createMealPlan() {
-        return null;
+        return new GettingActiveMealPlan();
     }
 }
