@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/L1/L1.iml" filepath="$PROJECT_DIR$/L1/L1.iml" />
       <module fileurl="file://$PROJECT_DIR$/L2/L2.iml" filepath="$PROJECT_DIR$/L2/L2.iml" />
       <module fileurl="file://$PROJECT_DIR$/L3/L3.iml" filepath="$PROJECT_DIR$/L3/L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.iml" filepath="$PROJECT_DIR$/L4/L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5/L5.iml" filepath="$PROJECT_DIR$/L5/L5.iml" />
       <module fileurl="file://$PROJECT_DIR$/L3/Part2.iml" filepath="$PROJECT_DIR$/L3/Part2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SWE4403Lab.iml" filepath="$PROJECT_DIR$/.idea/SWE4403Lab.iml" />
     </modules>
